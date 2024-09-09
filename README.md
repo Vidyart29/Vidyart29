@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Vidyart29/Vidyart29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://visitcount.itsvg.in/api?id=vidyarautela&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
