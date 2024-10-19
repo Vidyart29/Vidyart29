@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# All My Projects
+<!-- # All My Projects
 
-All of [Vidya's](https://vidyart29.github.io/) projects.
+All of [Vidya's](https://vidyart29.github.io/) projects. -->
 
 ## Repos
 
