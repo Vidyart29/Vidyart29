@@ -14,6 +14,7 @@ All of [Vidya's](https://vidyart29.github.io/) projects.
 | Portfolio  | [link](https://github.com/Vidyart29/vidyart29.github.io)  |
 | | 
 
+## Projects
 | Build   |   Frontend | Backend | Repo | URL |
 | --------- | :------------------------------------------------: |:------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | 
 | GRE Vocabs | HTML, CSS, JS  | - | [repo](https://github.com/Vidyart29/GRE_Vocabulary) | [link](https://github.com/Vidyart29/GRE_Vocabulary) | 
