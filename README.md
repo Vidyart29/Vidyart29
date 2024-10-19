@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+# All My Projects
+
+All of [Vidya's](https://vidyart29.github.io/) projects.
+
+## Repos
+
+|  Working Repo |  Repo urls |
+| ------------- |------------- |
+|  DevOps-and-CloudNative-Projects | [link](https://github.com/Vidyart29/DevOps-and-CloudNative-Projects)   |
+|AWS | [link](https://github.com/Vidyart29/AWS)|
+| DevOps  | [link](https://github.com/Vidyart29/DevOps)  |
+| Portfolio  | [link](https://github.com/Vidyart29/vidyart29.github.io)  |
+| | 
+
+| Build   |   Frontend | Backend | Repo | URL |
+| --------- | :------------------------------------------------: |:------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | 
+| GRE Vocabs | HTML, CSS, JS  | - | [repo](https://github.com/Vidyart29/GRE_Vocabulary) | [link](https://github.com/Vidyart29/GRE_Vocabulary) | 
+
 
 <!--
 **Vidyart29/Vidyart29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
