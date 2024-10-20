@@ -17,6 +17,7 @@ All of [Vidya's](https://vidyart29.github.io/) projects. -->
 ## Projects
 | Build   |   Frontend | Backend | Repo | URL |
 | --------- | :------------------------------------------------: |:------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | 
+| Currency Converter | HTML, CSS, JS   | Docker, Kubernetes, AKS | [repo](https://github.com/Vidyart29/currencyAks) | [link](https://www.linkedin.com/posts/vidyarautela_im-delighted-to-share-that-ive-successfully-activity-7185212742734131202-soRx?utm_source=share&utm_medium=member_desktop) | 
 | Spotify Playlist | -  | Terraform | [repo](https://github.com/Vidyart29/music-playlist) | [link](https://open.spotify.com/playlist/65qK5Gq1aK8HQ5KcJgPbxJ) | 
 | GRE Vocabs | HTML, CSS, JS  | - | [repo](https://github.com/Vidyart29/GRE_Vocabulary) | [link](https://github.com/Vidyart29/GRE_Vocabulary) | 
 
