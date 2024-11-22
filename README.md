@@ -6,6 +6,7 @@ All of [Vidya's](https://vidyart29.github.io/) projects. -->
 
 ## Repos
 
+<!---
 |  Working Repo |  Repo urls |
 | ------------- |------------- |
 |  DevOps-and-CloudNative-Projects | [link](https://github.com/Vidyart29/DevOps-and-CloudNative-Projects)   |
@@ -13,7 +14,7 @@ All of [Vidya's](https://vidyart29.github.io/) projects. -->
 | DevOps  | [link](https://github.com/Vidyart29/DevOps)  |
 | Portfolio  | [link](https://github.com/Vidyart29/vidyart29.github.io)  |
 | | 
-
+-->
 ## Projects
 | Build   |   Frontend | Backend | Repo | URL |
 | --------- | :------------------------------------------------: |:------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | 
